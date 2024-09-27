@@ -1,0 +1,5 @@
+numpy
+pandas
+sklearn
+PyPDF2
+nltk
